@@ -1,0 +1,24 @@
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\bin\Debug\CanBomber.exe.config
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\bin\Debug\CanBomber.exe
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\bin\Debug\CanBomber.pdb
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\bin\Debug\CanBomber.xml
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.vbprojAssemblyReference.cache
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.Form1.resources
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.Resources.resources
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.vbproj.GenerateResource.cache
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.vbproj.CoreCompileInputs.cache
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.exe
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.xml
+C:\Users\Vanya\AppData\Local\Temporary Projects\CanBomber\obj\Debug\CanBomber.pdb
+Z:\sourse\NET\CanBomber\CanBomber\bin\Debug\CanBomber.exe.config
+Z:\sourse\NET\CanBomber\CanBomber\bin\Debug\CanBomber.exe
+Z:\sourse\NET\CanBomber\CanBomber\bin\Debug\CanBomber.pdb
+Z:\sourse\NET\CanBomber\CanBomber\bin\Debug\CanBomber.xml
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.Form1.resources
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.Resources.resources
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.vbproj.GenerateResource.cache
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.vbproj.CoreCompileInputs.cache
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.exe
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.xml
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.pdb
+Z:\sourse\NET\CanBomber\CanBomber\obj\Debug\CanBomber.vbprojAssemblyReference.cache
